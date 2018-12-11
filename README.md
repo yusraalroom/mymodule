@@ -1,7 +1,6 @@
 # mymodule
 odoo api integration with form written by python                                                                         
 
-
 this code to integration odoo with  form writtern by python 
 First : you must run odoo server before run this file
 run this file in terminal by :
